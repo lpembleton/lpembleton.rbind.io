@@ -15,6 +15,7 @@ interests:
 - Genomic Selection
 - Genomic Breeding
 - Forages
+- R
 organizations:
 - name: Agriculture Victoria Research
   url: https://agriculture.vic.gov.au/about/our-research
