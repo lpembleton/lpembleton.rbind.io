@@ -15,6 +15,7 @@ interests:
 - Genomic Selection
 - Genomic Breeding
 - Forages
+- Bioinformatics
 - R
 organizations:
 - name: Agriculture Victoria Research
