@@ -22,13 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Genomic Breeding Scientist | Strategic Science Manager
+    company: Barenbrug
+    company_url: ''
+    company_logo: ''
+    location: Melbourne
+    date_start: '2021-08-16'
+    date_end: ''
+    
   - title: Senior Research Scientist
     company: Agriculture Victoria Research
     company_url: ''
     company_logo: ''
     location: Melbourne
     date_start: '2017-04-01'
-    date_end: ''
+    date_end: '2021-08-13'
         
   - title: Research Scientist
     company: Agriculture Victoria Research
