@@ -43,10 +43,6 @@ contact_links:
     icon_pack: fab
     name: Github
     link: 'https://github.com/lpembleton'
-  - icon: envelope
-    icon_pack: fas
-    name: Contact me
-    link: 'mailto:lpembleton@barenbrug'
 
 # Site header
 
