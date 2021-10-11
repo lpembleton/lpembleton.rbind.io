@@ -21,15 +21,15 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 address:
-  street: AgriBio, 5 Ring Road
-  city: Bundoora
+  street: 
+  city: Melbourne
   region: VIC
-  postcode: '3089'
+  postcode: 
   country: Australia
   country_code: AU
 coordinates:
-  latitude: '-37.723923400001986'
-  longitude: '145.05361113623434'
+  latitude: ''
+  longitude: ''
 contact_links:
   - icon: google-scholar
     icon_pack: ai
@@ -46,7 +46,7 @@ contact_links:
   - icon: envelope
     icon_pack: fas
     name: Contact me
-    link: 'mailto:luke.pembleton@agriculture.vic.gov.au'
+    link: 'mailto:lpembleton@barenbrug'
 
 # Site header
 
