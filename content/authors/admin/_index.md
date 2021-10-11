@@ -1,5 +1,5 @@
 ---
-bio: I am a Senior Research Scientist at Agriculture Victoria working in Genomics and Cellular Sciences of agricultural forages and crops.
+bio: I am a Genomic Breeding Scientist and Strategic Science Manager at Barenbrug.
 education:
   courses:
   - course: Doctor of Philosophy, Molecular Genetics
@@ -8,7 +8,7 @@ education:
   - course: Bachelor of Agricultural Science, Rural Technology
     institution: University of Queensland
     year: 2010
-email: "luke.pembleton@agriculture.vic.gov.au"
+email: "lpembleton@barenbrug.com"
 highlight_name: true
 interests:
 - Genomics
@@ -18,9 +18,9 @@ interests:
 - Bioinformatics
 - R
 organizations:
-- name: Agriculture Victoria Research
-  url: https://agriculture.vic.gov.au/about/our-research
-role: Senior Research Scientist - Genomics and Cellular Sciences
+- name: Barenbrug
+  url: https://barenbrug.com
+role: Genomic Breeding Scientist | Strategic Science Manager
 social:
 - icon: envelope
   icon_pack: fas
@@ -43,5 +43,5 @@ superuser: true
 title: Dr Luke Pembleton
 ---
 
-Dr Luke Pembleton is a Senior Research Scientist in Genomics at Agriculture Victoria. He leads a team which develops and implements innovative genotyping and genomic technologies along with associated computational pipelines to deliver intelligent whole system genomic breeding platforms for agricultural species. 
+Dr Luke Pembleton is a Genomic Breeding Scientist and Strategic Science Manager at Barenbrug. He leads the development and implementation of commercial genomic breeding and associated ‘omic’ technologies.  
 
