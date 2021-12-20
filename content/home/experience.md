@@ -25,7 +25,7 @@ experience:
   - title: Genomic Breeding Scientist | Strategic Science Manager
     company: Barenbrug
     company_url: ''
-    company_logo: barenbrug
+    company_logo: Barenbrug
     location: Melbourne
     date_start: '2021-08-16'
     date_end: ''
