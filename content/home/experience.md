@@ -25,7 +25,7 @@ experience:
   - title: Genomic Breeding Scientist | Strategic Science Manager
     company: Barenbrug
     company_url: ''
-    company_logo: ''
+    company_logo: barenbrug.svg
     location: Melbourne
     date_start: '2021-08-16'
     date_end: ''
@@ -33,7 +33,7 @@ experience:
   - title: Senior Research Scientist
     company: Agriculture Victoria Research
     company_url: ''
-    company_logo: ''
+    company_logo: AgVic.svg
     location: Melbourne
     date_start: '2017-04-01'
     date_end: '2021-08-13'
@@ -41,7 +41,7 @@ experience:
   - title: Research Scientist
     company: Agriculture Victoria Research
     company_url: ''
-    company_logo: ''
+    company_logo: AgVic.svg
     location: Melbourne
     date_start: '2014-10-01'
     date_end: '2017-03-31'
@@ -50,7 +50,7 @@ experience:
   - title: Research Assistant
     company: Victorian Department of Primary Industries
     company_url: ''
-    company_logo: ''
+    company_logo: DPI.svg
     location: Melbourne
     date_start: '2009-06-01'
     date_end: '2009-12-15'
