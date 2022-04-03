@@ -43,6 +43,10 @@ contact_links:
     icon_pack: fab
     name: Github
     link: 'https://github.com/lpembleton'
+  - icon: linkedin
+    icon_pack: fab
+    name: linkedin
+    link: 'https://linkedin.com/in/lpembleton'
 
 # Site header
 
