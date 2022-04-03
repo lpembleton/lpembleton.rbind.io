@@ -39,6 +39,9 @@ social:
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/3450394/luke-pembleton/
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/in/lpembleton
 superuser: true
 title: Dr Luke Pembleton
 ---
