@@ -17,6 +17,8 @@ interests:
 - Forages
 - Bioinformatics
 - R
+- Nextflow
+- Cloud Computing
 organizations:
 - name: Barenbrug
   url: https://barenbrug.com
